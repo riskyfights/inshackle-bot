@@ -32,3 +32,4 @@ Support the authors:
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
 ### LiberaPay:
 <noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+[![Run on Repl.it](https://repl.it/badge/github/cyberkallan/inshackle-bot)](https://repl.it/github/cyberkallan/inshackle-bot)
